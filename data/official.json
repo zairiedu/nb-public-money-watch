@@ -1,0 +1,231 @@
+{
+  "as_of": "2026-11-05",
+  "currency": "CAD",
+  "note": "Curated official public records. Forecast and actual values are different bases. No individual-payment records ingested.",
+  "financials": [
+    {
+      "label": "2026–27 revenue forecast",
+      "amount": 14240000000,
+      "basis": "forecast",
+      "source": "budget"
+    },
+    {
+      "label": "2026–27 expenditure forecast",
+      "amount": 15630000000,
+      "basis": "forecast",
+      "source": "budget"
+    },
+    {
+      "label": "2026–27 forecast deficit",
+      "amount": 1390000000,
+      "basis": "forecast",
+      "source": "budget"
+    },
+    {
+      "label": "2025–26 actual deficit",
+      "amount": 1300000000,
+      "basis": "actual, rounded",
+      "source": "accounts"
+    },
+    {
+      "label": "2025–26 expenditure above budget",
+      "amount": 537900000,
+      "basis": "actual budget variance, not confirmed waste",
+      "source": "accounts"
+    },
+    {
+      "label": "2025–26 net debt",
+      "amount": 13900000000,
+      "basis": "actual, rounded",
+      "source": "accounts"
+    }
+  ],
+  "department_basis": "2026–27 ordinary-account gross expenditure estimates, thousands of CAD converted to CAD. Not comparable as a sum to the $15.63B consolidated expenditure forecast.",
+  "departments": [
+    {
+      "name": "Agriculture, Aquaculture and Fisheries",
+      "amount": 54313000,
+      "source": "estimates"
+    },
+    {
+      "name": "Education and Early Childhood Development",
+      "amount": 2230623000,
+      "source": "estimates"
+    },
+    {
+      "name": "Energy",
+      "amount": 95385000,
+      "source": "estimates"
+    },
+    {
+      "name": "Environment and Local Government",
+      "amount": 229221000,
+      "source": "estimates"
+    },
+    {
+      "name": "Executive Council Office",
+      "amount": 12837000,
+      "source": "estimates"
+    },
+    {
+      "name": "Finance and Treasury Board",
+      "amount": 32252000,
+      "source": "estimates"
+    },
+    {
+      "name": "General Government",
+      "amount": 1284315000,
+      "source": "estimates"
+    },
+    {
+      "name": "Health",
+      "amount": 4801333000,
+      "source": "estimates"
+    },
+    {
+      "name": "Justice and Public Safety",
+      "amount": 423096000,
+      "source": "estimates"
+    },
+    {
+      "name": "Legislative Assembly",
+      "amount": 45023000,
+      "source": "estimates"
+    },
+    {
+      "name": "Natural Resources",
+      "amount": 149280000,
+      "source": "estimates"
+    },
+    {
+      "name": "New Brunswick Housing Corporation",
+      "amount": 259986000,
+      "source": "estimates"
+    },
+    {
+      "name": "Office of the Premier",
+      "amount": 1824000,
+      "source": "estimates"
+    },
+    {
+      "name": "Opportunities New Brunswick",
+      "amount": 63461000,
+      "source": "estimates"
+    },
+    {
+      "name": "Other Agencies",
+      "amount": 409108000,
+      "source": "estimates"
+    },
+    {
+      "name": "Post-Secondary Education, Training and Labour",
+      "amount": 779620000,
+      "source": "estimates"
+    },
+    {
+      "name": "Regional Development Corporation",
+      "amount": 78559000,
+      "source": "estimates"
+    },
+    {
+      "name": "Service of the Public Debt",
+      "amount": 860000000,
+      "source": "estimates"
+    },
+    {
+      "name": "Social Development",
+      "amount": 2012308000,
+      "source": "estimates"
+    },
+    {
+      "name": "Tourism, Heritage and Culture",
+      "amount": 92886000,
+      "source": "estimates"
+    },
+    {
+      "name": "Transportation and Infrastructure",
+      "amount": 421458000,
+      "source": "estimates"
+    }
+  ],
+  "cases": [
+    {
+      "id": "AG-2024-TRAVEL",
+      "title": "Travel-nursing contracts",
+      "published": "2024-06-04",
+      "status": "Official audit finding",
+      "classification": "Procurement and oversight deficiencies",
+      "amount": 173940285,
+      "amount_label": "Audited contract spending; NOT proven waste",
+      "summary": "The Auditor General documented weaknesses in supplier selection, oversight and evidence of value for money. The audit does not establish criminal fraud.",
+      "source": "nursing",
+      "followup": "Verify recommendation implementation, any recoveries, and legal or parliamentary outcomes."
+    },
+    {
+      "id": "AG-2026-GRANTS",
+      "title": "Tourism, Heritage and Culture grants",
+      "published": "2026-06-02",
+      "status": "Official audit finding",
+      "classification": "Grant controls and outcome monitoring",
+      "amount": null,
+      "amount_label": "No quantified financial loss established",
+      "summary": "The Auditor General identified shortcomings in grant assessment, agreements, and monitoring. These are control findings, not proven fraud.",
+      "source": "grants",
+      "followup": "Review departmental responses and implementation of recommendations."
+    },
+    {
+      "id": "AG-2026-CLINICS",
+      "title": "Collaborative care clinics",
+      "published": "2026-09-29",
+      "status": "Official audit finding",
+      "classification": "Planning, costing and outcome measurement",
+      "amount": null,
+      "amount_label": "No quantified financial loss established",
+      "summary": "Audit findings concern needs assessment, reliable patient attachment numbers, and monitoring of clinic expansion.",
+      "source": "clinics",
+      "followup": "Track clinic performance metrics and government's response."
+    },
+    {
+      "id": "AG-2026-NBPOWER",
+      "title": "NB Power deferred electricity costs",
+      "published": "2026-09-29",
+      "status": "Official audit finding",
+      "classification": "Financial reporting and deferred cost exposure",
+      "amount": 384000000,
+      "amount_label": "Deferred costs; NOT confirmed waste or fraud",
+      "summary": "The Auditor General raised concerns about deferred electricity costs to be recovered from ratepayers over time.",
+      "source": "power",
+      "followup": "Monitor rate-rider balances and remedial action."
+    }
+  ],
+  "sources": {
+    "budget": {
+      "title": "2026–27 New Brunswick budget",
+      "url": "https://www.gnb.ca/en/gov/budget.html"
+    },
+    "estimates": {
+      "title": "2026–27 Main Estimates (Legislative Assembly PDF)",
+      "url": "https://www.legnb.ca/content/house_business/61/2/tabled_documents/2026-03-17%20Main%20Estimates%202026-2027%20-%20Budget%20principal%2C%202026-2027%20.pdf"
+    },
+    "accounts": {
+      "title": "Finance and Treasury Board publications / Public Accounts",
+      "url": "https://www.gnb.ca/en/org/finance-treasury-board/ftb-publications.html"
+    },
+    "nursing": {
+      "title": "Auditor General 2024 travel nursing audit",
+      "url": "https://www.agnb-vgnb.ca/uploads/volume_section_translations/9/file/agnb-V1-C2-2024.pdf"
+    },
+    "grants": {
+      "title": "Auditor General official reports",
+      "url": "https://www.agnb-vgnb.ca/en/report-of-the-auditor-general"
+    },
+    "clinics": {
+      "title": "Auditor General official reports",
+      "url": "https://www.agnb-vgnb.ca/en/report-of-the-auditor-general"
+    },
+    "power": {
+      "title": "Auditor General official reports",
+      "url": "https://www.agnb-vgnb.ca/en/report-of-the-auditor-general"
+    }
+  }
+}
